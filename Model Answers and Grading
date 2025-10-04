@@ -1,4 +1,4 @@
-##Questions
+Questions
 
 # Philosophy & Metaphysics
     1. "What happens to the soul after death?",
@@ -32,10 +32,10 @@
     20. "How can I become more resilient after failure?",
 
 
-Grading:
-[Relevance, Helpfulness, Clarity, Faithfulness]
-
-
+Grading List:
+[Relevance (1-5), Helpfulness (1-5), Clarity (1-5), Faithfulness (1-5)]
+Note that for Retrieval-Based answers, I have averaged the scores for the top 3 retreived verse for each question. The grading list for the averaged score will be under the last retrieved verse's score.  
+Moreover, for all models, I have averaged the score for eahc category of question. This grading list will be present underneath the last verse of each category's grading list. 
 
 Retrieval-Based:
 
@@ -44,388 +44,388 @@ What happens to the soul after death?,
 "English: The Soul does not undergo birth, growth, decay, and destruction. Acts of life being followed by effects, the Soul, clothed in body into another, unseen by others.
 Sanskrit: न युज्यतेऽसौ परमः शरीरी। अनेन लिङ्गेन तु लिङ्गमन्यद् गच्छत्यदृष्टः फलसंनियोगात्॥
 
-— [4,4,3]
+— [4,4,3,]
 
 English: Thereupon when death occurs, only the body is destroyed, but the spirit bound in the bonds of actions goes elsewhere.
 Sanskrit: वध्यमाने शरीरे तु देहनाशो भवत्युत। जीवः सङ्क्रमतेऽन्यत्र कर्मबन्धनिबन्धनः॥
 
-—[4,3,3]
+—[4,3,3,5]
 
 English: That inner soul exists in your body, wedded to wrath and desire as it is like death; and knowing that death is generated in this way, the person who puts his faith in knowledge is not afraid of death. Death itself is destroyed when it comes under the influence of knowledge, even as earthly beings are destroyed when they come under the influence of death.
 Sanskrit: स क्रोधलोभौ मोहवानन्तरात्मा स वै मृत्युस्त्वच्छरीरे य एषः। एवं मृत्यु जायमानं विदित्वा ज्ञाने तिष्ठन् न बिभेतीह मृत्योः। र्मृत्योर्यथा विषयं प्राप्य मर्त्यः॥"
 
-[2,1,2]
+[2,1,2,5]
 
-[3.33, 2.67,2.67]
+[3.33, 2.67,2.67,5]
 
 Why should I follow my dharma?
 
 ,"English: I do not doubt the eventual justification of that foreboding. I bow to Dharma and to the creator and to Krishna who is ever great. Creatures are supported by Dharma (Virtue).
 Sanskrit: नाहं तामभ्यसूयामि नमो धर्माय वेधसे। कृष्णाय महते नित्यं धर्मो धारयति प्रजाः॥
 
-—[3,2,2]
+—[3,2,2,5]
 
 English: The high-souled of Dharma (Yudhisthira) is (now) bound by the obligation of the rules of morality. The ways of Dharma is subtle. Those only can ascertain them who son possess great clearness of vision. Forgetting his virtue, I am unwilling to admit even an atom of fault in my husband (Yudhisthira.)
 Sanskrit: नृशंसकर्मंस्त्वमनार्यवृत्त मा मा विवस्त्रां कुरु मा विकर्षीः। न मर्षयेद्युस्तव राजपुत्राः सेन्द्राश्च देवा यदि ते सहायाः॥ धर्मे स्थितो धर्मसुतो महात्मा धर्मश्च सूक्ष्मो निपुणोपलक्ष्यः। मिच्छामि दोषं न गुणान् विसृज्य॥
 
-—[3,1,1]
+—[3,1,1,5]
 
 English: I bow down to the great Dharma for it is Dharma that sustains the living creatures. Speak this to Dhananjaya; and Vrikodara who is ever ready for action should also thus be spoken to the object for which a Kshatriya lady brings forth a child is come; best of men do not grieve when they meet with an enemy.
 Sanskrit: नमो धर्माय महते धर्मो धारयति प्रजाः। एतद् धनंजयो वाच्यो नित्योद्युक्तो वृकोदरः॥ यदर्थं क्षत्रिया सूते तस्य कालोऽयमागतः। न हि वैरं समासाद्य सीदन्ति पुरुषर्षभाः॥"
 
-[3,2,2]
+[3,2,2,5]
 
-[3, 2.33, 2.33]
+[3, 2.33, 2.33, 5]
 
 How can I practice detachment in daily life?
 
 ,"English: The duties of a householder are observed by person practising charity. By abstaining from all sorts of injuries, by casting off desire and anger, by being engaged in protecting all creatures, by making charities and lastly by making elders and aged persons, we shall succeed in attaining such blissful regions as are after our hearts.
 Sanskrit: एवं धर्ममनुक्रान्ताः सदा दानतपःपरा। आनृशंस्यगुणोपेताः कामक्रोधविवर्जिताः॥ प्रजानां पालने युक्ता दानमुत्तममास्थिताः। इष्टॉल्लोकानवाप्स्यामो गुरुवृद्धोपचायिनः॥
 
-—[4,3,2]
+—[4,3,2,5]
 
 English: I have stationed the forces belonging to you who are possessed of strength, inside as well as outside. (Now), without suffering your mind to be agitated with anxiety, speedily, do what is in your heart.
 Sanskrit: विहितं बहिरन्तश्च बलं बलवतस्तव। कुरुष्वाविमनाः क्षिप्रं यदभिप्रेतमस्ति ते।।।
 
-—[3,1,2]
+—[3,1,2,5]
 
 English: Acting always in this way and treading in the path of fearlessness, I shall at last lay down my life.
 Sanskrit: एतया सततं धृत्या चरन्नेवंप्रकारया। देहं संस्थापयिष्यामि निर्भयं मार्गमास्थितः॥"
 
-[2,1,2]
+[2,1,2,5]
 
-[3, 1.67, 2]
+[3, 1.67, 2, 5]
 
 What does karma really mean for my future?
 
 ,"English: How does Karma originate, if Destiny is the principal motive power of human action? By this means, many virtues are accumulated in the celesiial regions.
 Sanskrit: कथं तस्य समुत्पत्तिर्यतो दैवं प्रवर्तते। एवं त्रिदशलोकेऽपि प्राप्यन्ते बहवो गुणाः॥
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: There are various ways in which evil Karma might be expiated, such as, by making gifts, by speaking truth and by serving the preceptor, by worshipping the order of the twice-born, by becoming devoted to virtue, free from pride and idle talk. O foremost of Brahmanas, I do these things.
 Sanskrit: कर्मणस्तस्य घोरस्य बहुधा निर्णयो भवेत्। दाने च सत्यवाक्ये च गुरुशुश्रूषणे तथा॥ द्विजातिपूजने चाहं धर्मे च निरतः सदा। अभिमानातिवादाभ्यां निवृत्तोऽस्मि द्विजोत्तम॥
 
-—[3,2,2]
+—[3,2,2,5]
 
 English: Karma is a help to salvation as sons are and Karma also expresses virtue and vice in man. We impell one another even acts urge one another.
 Sanskrit: कर्मदायादवाँल्लोकः कर्मसम्बन्धलक्षणः। कर्माणि चोदयन्तीह यथान्योन्यं तथा वयम्॥"
 
-[2,1,1]
+[2,1,1,5]
 
-[2.33, 1.33, 1.67]
+[2.33, 1.33, 1.67, 5]
 
 How can knowledge help me reach peace?
 
 ,"English: As water quenches fire, so knowledge allays mental ailments. When mind enjoys' peace, body also enjoys peace.
 Sanskrit: मानसं शमयेत् तस्माज्ज्ञानेनाग्निमिवाम्बुना। प्रशान्ते मानसे ह्यस्य शारीरमुपशाम्यति॥
 
-—[4,4,3]
+—[4,4,3,5]
 
 English: This appears to me very clear and by acting in accordance with it my mind will obtain peace. If you consider that peace with them is desirable, then we shall try for peace.
 Sanskrit: एषा मे परमा बुद्धिर्यया शाम्यति मे मनः। यदि त्वयुद्धमिष्टं वो वयं शान्त्यै यतामहे॥
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: Myself and other persons endued with wisdom, see you established in the highest and indestructible path of peace.
 Sanskrit: अहं त्वामनुपश्यामि ये चाप्यन्ये मनीषिणः। आस्थितं परमं मार्गमक्षयं तमनामयम्॥"
 
-[3,1,2]
+[3,1,2,5]
 
-[3, 2, 2.33]
+[3, 2, 2.33, 5]
 
-[2.932, 2, 2.2]
+[2.932, 2, 2.2, 5]
 
 How do I control my anger?
 
 ,"English: Anger is in this world, the root of the destruction of mankind; how can, one like me indulge in anger which brings about the destruction of the world?
 Sanskrit: क्रोधमूलो विनाशो हि प्रजानामिह दृश्यते। तत् कथं मादृशः क्रोधमुत्सृजेल्लोकनाशनम्॥
 
-—[1,1,3]
+—[1,1,3,5]
 
 English: Anger in an enemy which take away life. Anger is a sweet-speeched enemy in the grab of a friend. It is the foremost of passions and like to a sharp dagger. And it is anger that steal away everything. It pilfers all that is acquired by asceticism, sacrifices and gifts. it is proper therefore by every means to kill anger. Passions are running amok on all sides like so many exceedingly wicked steeds. Being satiated with of all objects of enjoyments it is better to govern them by patience.
 Sanskrit: क्रोधः प्राणहरः शत्रुः क्रोधोऽमित्रमुखो रिपुः। क्रोधो ह्यसिर्महातीक्ष्णः सर्वं क्रोधोऽपकर्षति॥ तपते यजते चैव यच दानं प्रयच्छति। क्रोधेन सर्वं हरति तस्मात्क्रोधं विसर्जयेत्॥ इन्द्रियाणां प्रदुष्टानां हयानामिव धावताम्। कुर्वीत धृत्या सारथ्यं संहत्येन्द्रियगोचरम्॥
 
-—[3,2,2]
+—[3,2,2,5]
 
 English: Why should persons like myself indulge in that anger which has been controlled by persons of tranquil mind; thinking this, O Draupadi, my anger is not excited.
 Sanskrit: तं क्रोधं वर्जितंधीरैः कथमस्मद्विधश्चरत्। एतद् द्रौपदि संधाय न मे मन्युः प्रवर्धते॥"
 
-[2,1,3]
+[2,1,3,5]
 
-[2, 1.33, 2.67]
+[2, 1.33, 2.67,5]
 
 What should I do when I feel afraid?
 
 ,"English: If one acts like a man in fear before the cause of fear is so near, one is never filled with fear when that cause actually arrives. And from the fear of a person, who always acts with ""carlessness, very great fear criginates.
 Sanskrit: न भयं विद्यते राजन् भीतस्यानागते भये॥ अभीतस्य च विश्रम्भात् सुमहज्जायते भवम्।
 
-—[3,2,1]
+—[3,2,1,5]
 
 English: One should before the cause of fear actually arrived, act like a person in fear, and make peace with enenies. Such fear and carefulness beget keenness of understanding.
 Sanskrit: भीतवत् संनिधिः कार्यः प्रतिसंधिस्तथैव च॥ भयादुत्पद्यते बुद्धिरप्रमत्ताभियोगजा।
 
-—[3,2,1]
+—[3,2,1,5]
 
 English: Ground of fear find I none, yet am I subject to fear. My voice is untuned, and my grace fled, and I begin to despise my life, nor know I the reason why.
-[1,1,1]
+[1,1,1,5]
 Sanskrit: न पश्यामि भयस्थानं भयं चैवोपधारये। भ्रष्टश्च स्वरयोगो मे छाया चापगता मम। जुगुप्सु इव चात्मानं न च पश्यामि कारणम्॥"
 
-[2.33, 1.67, 1]
+[2.33, 1.67, 1,5]
 
 How do I deal with grief after losing someone?
 
 ,"English: If you feel any grief heavily, it should be overcome by not indulging in it. This is the only remedy for grief, viz., that one should not indulge in it.
 Sanskrit: अशोचन् प्रतिकुर्वीत यदि पश्येत् पराक्रमम्। भैषज्यमेतद् दुःखस्य यदेतन्नानुचिन्तयेत्॥
 
-—[3,2,2]
+—[3,2,2,5]
 
 English: Dead or lost, the person who grieves for what has already taken place, and suffers great grief. By grieving one increases it twofold.
 Sanskrit: मृतं वा यदि वा नष्टं योऽतीतमनुशोचति। दुःखेन लभते दुःखं द्वावनौँ प्रपद्यते॥
 
-—[3,2,2]
+—[3,2,2,5]
 
 English: I know that grief abates as time passes by, but my sorrow arising from the separation of my spouse, is increasing day by day.
 Sanskrit: शोकश्च किल कालेन गच्छता ह्यपगच्छति। मम चापश्यतः कान्तामहन्यहनि वर्धते॥"
 
-[2,1,2]
+[2,1,2,5]
 
-[2.67, 1.67, 2]
+[2.67, 1.67, 2, 5]
 
 Why do I feel so much hesitation before making a big decision?
 
 ,"English: I myself had been expecting you every moment. Do you perform everything without let. What need of delaying further?
 Sanskrit: सद्योऽहं त्वत्प्रतीक्षोऽस्मि वेद्यामस्यां प्रतिष्ठितः। अविघ्नं क्रियतां सर्वं किमर्थं हि विलम्ब्यते॥
 
-—[3,4,2]
+—[3,4,2,5]
 
 English: Thus various sorts of speculations arise in the mind. Nothing can settle whether this opinion is right or that is right.
 Sanskrit: इति सम्यङ्मनस्यते बहवः सन्ति हेतवः। एतदस्तीदमस्तीति न किञ्चित्प्रतिदृश्यते॥
 
-—[3,3,3]
+—[3,3,3,5]
 
 English: If there is any talk (of delivering me), or keeping me confined, you should communicate to me the decision arrived at.
 Sanskrit: यदि नाम कथा तस्य निश्चितं वापि यद्भवेत्। निवेदयेथाः सर्वं तद्वरो मे स्यादनुग्रहः॥"
 
+[1,1,2,5]
 
-[1,1,2]
-
-[2.33, 2.67, 2.33]
+[2.33, 2.67, 2.33, 5]
 
 How can I overcome desire and temptation?
 
 ,"English: Desire appears to be ignorance, darkness and hell of all creatures (for when they follow desire, they loose all control over their senses). Persons following desire run on like intoxicated men towards the drains and holes of this life.
 Sanskrit: तमोऽप्रकाशो भूतानां नरकोऽयं प्रदृश्यते। मुह्यन्त इव धावन्ति गच्छन्तः शुभ्रवत् सुखम्॥
 
-—[3,1,2]
+—[3,1,2, 5]
 
 English: Urged by that fault, this individual soul fails to attain to freedom from desire. Possessed by desire, one runs into ditches without knowing it.
 Sanskrit: यत्प्रयुक्तो जन्तुरयं वैतृष्ण्यं नाधिगच्छति। तृष्णात इह निम्नानि धावमानो न बुध्यते॥
 
-—[3,1,2]
+—[3,1,2,5]
 
 English: There is no pleasure, except that from desire which women can derive from a person of the other sex! I am now under the influence of lust. I seek you for that reason. Do you seek me in return.
 Sanskrit: ब्रह्मन्नकामतोऽन्यास्ति स्त्रीणां पुरुषतो धृतिः॥ कामेन मोहिता चाहं त्वां भजन्तीं भजस्व माम्।"
-[2,1,1]
+[2,1,1,5]
 
-[2.67, 1, 1.67]
+[2.67, 1, 1.67,5]
 
-[2.4, 1.67, 1.93]
+[2.4, 1.67, 1.93,5]
 
 How should a good leader behave?
 
 ,"English: Acting jointly with the leaders, the king, should do what is for the behoof of the whole order. When, however, the aristocracy are divided and disunited and have no leaders, other courses of action should be followed,
 Sanskrit: गणमुख्यैस्तु सम्भूय कार्यं गणहितं मिथः! पृथग्गणस्य भिन्नस्य विततस्य ततोऽन्यथा॥
 
-—[4,3,2]
+—[4,3,2,5]
 
 English: Again how should he behave hiinself when he is surrounded by wicked ministers, when his counsels are all divulged, when he does not find his way clearly before him, when he attacks another kingdom, when he is engaged in grinding a hostile kingdom, and when though weak he is at war with a powerful king? How should a king act whose affairs are iilmanaged and who disregards the requirements of place and time, who is unable, for his oppressions, to bring about peace and create disunion among his enemies? Should he try to acquire wealth by foul means or should he sacrifice his life without seeking wealth?
 Sanskrit: दुष्टामात्यसहायस्य च्युतमन्त्रस्य सर्वतः। राज्यात् प्रच्यवमानस्य गतिमभ्यामपश्यतः॥ परचक्राभियातस्य परराष्ट्राणि मृद्गतः। विग्रहे वर्तमानस्य दुर्बलस्य वलीयसा॥ असंविहितराष्ट्रस्य देशकालावजानतः। अप्राप्यं च भवेत् सान्त्वंभेदो वाप्यतिपीडनात्। जीवितं त्वर्थहेतुर्वा तत्र किं सुकृतं भवेत्॥
 
-— 3,2,2
+— [3,2,2,5]
 
 English: It is impossible to treat all equally. Conciliating the leaders only, the ordinary people should be reduced to obedience.
 Sanskrit: तस्मात् सर्वसमारम्भो दुर्लभः पुरुषं प्रति। यथामुख्यान सान्त्वयित्वा भोक्तव्य इतरो जनः॥"
 
-[3,1,2]
+[3,1,2,5]
 
-[3.33, 2, 2]
+[3.33, 2, 2,5]
 
 What is the right way to treat my teacher or mentor?
 
 ,"English: But when a pupil behaves disrespectfully towards his tutor, he should never be forgiven by the preceptor, if he wants to benefit him. Therefore, I do not desire to live in a country where the people are so bad.
 Sanskrit: शिष्यस्याशिष्यवृत्तेस्तु न क्षन्तव्यं बुभूषता। तस्मात् संकीर्णवृत्तेषु वासो मम न रोचते॥
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: What are the merits of serving the parents. What also are the merits of serving preceptors and teachers, and what the merits of mercy and kindness?
 Sanskrit: पितृशुश्रूषणे किं च मातृशुश्रूषणे तथा। आचार्यगुरुशुश्रूषास्वनुक्रोशानुकम्पने॥
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: We act towards you in that way (the way in which younger should behave towards their elders); you also act towards us in the same way (the way in which elders should behave towards their youngers). If we follow the wrong way, then should we be set right by our father.
 Sanskrit: वर्तामहे त्वयि च तां त्वं च वर्तस्व नस्तथा। पित्रा स्थापयितव्या हि वयमुत्पथमास्थिताः॥"
 
-[3,2,2]
+[3,2,2,5]
 
-[2.33,1.33,2]
+[2.33,1.33,2,5]
 
 How can I show respect to someone I look up to?
 
 ,"English: Do you honour him duly for my sake, O powerful one, he is always attached and deeply devoted to me.
 Sanskrit: तं भवान् मदपेश्चार्थ विधिवत् प्रतिपूजयेत्। स तु भक्तोऽनुरक्तश्च मम नित्यमिति प्रभो॥
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: O father, if I am really the daughter of a hired chanter of others' praises and of one who accepts alms, I must adore her in the hope of getting her favour. I have already told this to her.
 Sanskrit: यद्यहं स्तुवतस्तात दुहिता प्रतिगृह्णतः। प्रसादयिष्ये शर्मिष्ठामित्युक्ता तु सखी मया॥
 
-—[3,2,2]
+—[3,2,2,5]
 
 English: I was always supported by you and for the great respect you had for me I was always honoured by you with sweet, agreeable, charming, and delightful words.
 Sanskrit: लालिताहं त्वया नित्यं बहुमानाच्च पूजिता॥ वचनैर्मधुरैः स्निग्धैरसंक्लिष्टमनोहरैः।"
 
-[3,3,3]
+[3,3,3,5]
 
-[2.67, 2, 2.33]
+[2.67, 2, 2.33,5]
 
 How should I stay loyal to my friends?
 
 ,"English: That friend who, though not related in any way, yet acts as a friend; and he is a true friend, a refuge and a protector.
 Sanskrit: यः कश्चिदप्यसम्बद्धो मित्रभावेन वर्तते। स एव बन्धुस्तन्मित्रं सा गतिस्तत् परायणम्॥
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: I am devoted to the service of friends. I am, again, especially devoted to you. For these reasons, O good friend, you should reunite yourself with me.
 Sanskrit: मित्रेषु वत्सलश्चास्मि त्वद्भक्तश्च विशेषतः। तस्मादेवं पुन: साधो मय्याचरितुमर्हसि॥
 
-—[2, 1,2]
+—[2, 1,2,5]
 
 English: Having created confidence in me and having given me my life, why do you not come to me at a time when friends should enjoy the sweets of friendship?
 Sanskrit: गत्वा च मम विश्वासं दत्त्वा च मम जीवितम्। मित्रोपभोगसमये किं मां त्वं नोपसर्पसि॥"
 
-[1,1,2]
+[1,1,2,5]
 
-[1.67, 1, 2]
+[1.67, 1, 2,5]
 
 How can I balance my family responsibilities with my work?
 
 ,"English: I will this day achieve that feat that will redound to the good of both the families (of my father and mother). I will do what will please my sire and my maternal uncle.
 Sanskrit: द्रोणानीकं दुरासदम्। तत् कर्माद्य करिष्यामि हितं यद् वंशयोर्द्वयोः। मातुलस्य च यत् प्रीतिं करिष्यति पितुश्च मे॥
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: When on account of the fruits of their own acts your relatives can maintain themselves in this world whether you live or die, thinking of this you should do what is for your own wellbeing.
 Sanskrit: मृते वा त्वयि जीवे वा यदा भोक्ष्यति वै जनः। स्वकृतं ननु बुद्ध्वैवं कर्तव्यं हितमात्मनः॥
 
-—[3,2,3]
+—[3,2,3,5]
 
 English: Are all my mothers-in-law and subjects well?
 Sanskrit: श्वश्रूणां चैव मे वीर सर्वासामविशेषतः। पुरे जनपदे चैव कुशलं प्राणिनामपि॥"
 
-[1,1,2]
+[1,1,2,5]
 
-[2, 1.67, 2.33]
+[2, 1.67, 2.33,5]
 
-[2.4, 1.6, 2.13]
+[2.4, 1.6, 2.13,5]
 
 How do I handle stress when life feels overwhelming?
 
 ,"English: With a heart confounded with grief and overwhelmed with affliction and like one sinking in an extensive and deep sea of sorrow.
 Sanskrit: शोकसम्मूढहृदयो दुःखेनाभिपरिप्लुतः। मज्जमान इवागाधे विपुले शोकसागरे॥
 
-—[1,1,2]
+—[1,1,2,5]
 
 English: At this time of distress, I do with all my heart long for death, (but alas!) even death is not approaching me is this my misery.
 Sanskrit: साहमेवंविधे काले मर्तुमिच्छामि सर्वतः। न च मे विहितो मृत्युरस्मिन् दुःखेऽतिवर्तति॥
 
-—[1,1,2]
+—[1,1,2,5]
 
 English: I have been moved with pity, seeing that you hang with your faces downwards and that you are overtaken by a great calamity. What good can I do to you?
 Sanskrit: तस्य मे दुःखमुत्पन्नं दृष्ट्वा युष्मानधोमुखान्। कृच्छ्रमापदमापन्नान्प्रियं किं करवाणि वः॥"
 
-[1,1,2]
+[1,1,2,5]
 
-[1,1,2]
+[1,1,2,5]
 Can meditation help me control my emotions?
 
 ,"English: By meditating with the help of the understanding upon topics deserving meditation one, gifted with patience, succeeds in relinquishing sleep. By steady endurance one should govern his organs of generation and the stomach. One should protect his hands and feet by his eyes.
 Sanskrit: सत्त्वसंसेवनाद् धीरो निद्रामुच्छेत्तुमर्हति। धृत्या शिश्नोदरं रक्षेत् पाणिपादं च चक्षुषा॥
 
-—[4,3,2]
+—[4,3,2,5]
 
 English: Disease may be allayed by the application of medicine, but mental ailments, are cured by Yoga meditation.
 Sanskrit: तदा तत्प्रतिकाराच्च सततं चाविचिन्तनात्। आधिव्याधिप्रशमनं क्रियायोगद्वयेन तु॥
 
-—[4,3,3]
+—[4,3,3,5]
 
 English: Devoid of desire and gifted with a tranquil mind, the person in Yoga is never affected by pain and sorrow and fear and the dreadful effects of attachment and affection.
 Sanskrit: दुःखशोकमयैोरैः सङ्गस्नेहसमुद्भवैः। न विचाल्यति युक्तात्मानिःस्पृहः शान्तमानसः॥"
 
-[4,3,3]
+[4,3,3,5]
 
-[4, 3, 2.67]
+[4, 3, 2.67,5]
 
 How do I let go of attachments that hurt me?
 
 ,"English: It appears attachment is the root of all mental agonies; it is attachment that makes every creature miserable and brings on every kind of woe.
 Sanskrit: मनसो दुःखमूलं तु स्नेह इत्युपलभ्यते। स्नेहात् तु सज्जते जन्तुर्दुःखयोगमुपैति च॥
 
-—[3,1,2]
+—[3,1,2,5]
 
 English: Renounce all desire for action. O my Soul which has become a prey of cupidity, adopt tranquillity by freeling yourself from all worldly attachments. Repeatedly have you been cheated (by phantomis of hope). How is it that you do not still free yourself from attachments?
 Sanskrit: निवर्तस्व विधित्साभ्यः शाम्य निर्विद्य कामुक असकृच्चासि निकृतो न च निर्विद्यसे ततः॥
 
-—[3,3,2]
+—[3,3,2,5]
 
 English: The object for which feels an attachment, becomes a source of pain to him when it is lost.
 Sanskrit: किंचिदेव ममत्वेन यदा भवति कल्पितम्। तदेव परितापाय नाशे सम्पद्यते पुनः॥"
 
-[3,1,2]
-[3, 1.67, 2]
+[3,1,2,5]
+[3, 1.67, 2, 5]
 
 What should I do when I feel stuck in a personal crisis?
 
 ,"English: I have been moved with pity, seeing that you hang with your faces downwards and that you are overtaken by a great calamity. What good can I do to you?
 Sanskrit: तस्य मे दुःखमुत्पन्नं दृष्ट्वा युष्मानधोमुखान्। कृच्छ्रमापदमापन्नान्प्रियं किं करवाणि वः॥
 
-—[3,2,2]
+—[3,2,2,5]
 
 English: As the violence of a river wears away its banks, my grief occasioned through my own agency is destroying me, who am helpless and insensible.
 Sanskrit: अयमात्मभवः शोको मामनाथमचेतनम्। संसाधयति वेगेन यथा कूलं नदीरयः॥
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: With a heart confounded with grief and overwhelmed with affliction and like one sinking in an extensive and deep sea of sorrow.
 Sanskrit: शोकसम्मूढहृदयो दुःखेनाभिपरिप्लुतः। मज्जमान इवागाधे विपुले शोकसागरे॥"
 
-[2,1,2]
+[2,1,2,5]
 
-[2.33, 1.33, 2]
+[2.33, 1.33, 2,5]
 
 How can I become more resilient after failure?
 
 ,"English: Thus, having the preservation of life itself in view, a high-souled person, endued with learning and acquainted with means, should rescue his own cheerless self when fallen into distress, by all means in his power.
 Sanskrit: एवं विद्वानदीनात्मा व्यसनस्थो जिजीविषुः। सर्वोपायैरुपायज्ञो दीनमात्मानमुद्धरेत्॥
 
-—[3,2,2]
+—[3,2,2,5]
 
 English: Still a person versed in polity, albeit anxious to secure victory in battle, should carefully preserve self, as success in war is unstable.
 Sanskrit: तथापि तु नयज्ञेन जयमाकाङ्क्षता रणे॥ आत्मा रक्ष्यः प्रयत्नेन युद्धसिद्धिर्हि चञ्चला।
 
-—[2,1,2]
+—[2,1,2,5]
 
 English: One should always exert hopefully. How can happiness be secured from despondency? Objects of desire may be acquired by resolution. Why then do you return so heartlessly?
 Sanskrit: अनिर्वेदः सदा कार्यो निर्वेदाद्धि कुतः सुखम्। प्रयत्नात् प्राप्यते ह्यर्थः कस्माद् गच्छथ निर्दयम्॥"
-[3,3,1]
+[3,3,1,5]
 
-[2.67, 2, 1.67]
+[2.67, 2, 1.67,5]
 
-[2.6, 1.8, 2.07
+[2.6, 1.8, 2.07,5]
 
                                                                                                                                                                                                     
 
-RAG+Qwen
+
+RAG+Qwen:
 
 question,rag_qwen_answer
 What happens to the soul after death?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. After your explanation, always include the exact Sanskrit verse(s) from the passages that support your answer. Do not omit them. Make sure to not just copy the passages, analyze and understand them and then reply in your own words.skip the question if it takes too longThe Soul does not undergo birth, growth, decay, and destruction. Acts of life being followed by effects, the Soul, clothed in body into another, unseen by others.
@@ -515,19 +515,13 @@ Answer: Knowledge can help us reach peace through its ability to calm our minds,
 
 [5,5,5,5]
 
-
-[4.8, ]
-
-
-
+[4.8, 5, 4.8, 5]
 
 How do I control my anger?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. After your explanation, always include the exact Sanskrit verse(s) from the passages that support your answer. Do not omit them. Make sure to not just copy the passages, analyze and understand them and then reply in your own words.skip the question if it takes too longAnger is in this world, the root of the destruction of mankind; how can, one like me indulge in anger which brings about the destruction of the world?
 क्रोधमूलो विनाशो हि प्रजानामिह दृश्यते। तत् कथं मादृशः क्रोधमुत्सृजेल्लोकनाशनम्॥
 
 Anger in an enemy which take away life. Anger is a sweet-speeched enemy in the grab of a friend. It is the foremost of passions and like to a sharp dagger. And it is anger that steal away everything. It pilfers all that is acquired by asceticism, sacrifices and gifts. it is proper therefore by every means to kill anger. Passions are running amok on all sides like so many exceedingly wicked steeds. Being satiated with of all objects of enjoyments it is better to govern them by patience.
 क्रोधः प्राणहरः शत्रुः क्रोधोऽमित्रमुखो रिपुः। क्रोधो ह्यसिर्महातीक्ष्णः सर्वं क्रोधोऽपकर्षति॥ तपते यजते चैव यच दानं प्रयच्छति। क्रोधेन सर्वं हरति तस्मात्क्रोधं विसर्जयेत्॥ इन्द्रियाणां प्रदुष्टानां हयानामिव धावताम्। कुर्वीत धृत्या सारथ्यं संहत्येन्द्रियगोचरम्॥
-
-
 
 Why should persons like myself indulge in that anger which has been controlled by persons of tranquil mind; thinking this, O Draupadi, my anger is not excited.
 तं क्रोधं वर्जितंधीरैः कथमस्मद्विधश्चरत्। एतद् द्रौपदि संधाय न मे मन्युः प्रवर्धते॥
@@ -577,7 +571,7 @@ I know that grief abates as time passes by, but my sorrow arising from the separ
 Question: How do I deal with grief after losing someone?
 Answer: To deal with grief, avoid indulging in it. Overcoming grief requires not dwelling on it, according to the Sanskrit verse अशोचन् प्रतिकुर्वीत यदि पश्येत् पराक्रमम्। भैषज्यमेतद् दुःखस्य यदेतन्नानुचिन्तयेत्॥ (Ashocan pratikurvita yadi pashyet parakramam। bhaishajyametad duḥkhasya yadetanna anuchintayet॥). The passage also mentions that grief increases when we mourn over things that have already happened, such as in the case where a person grieves for a deceased spouse, which results in further sorrow as stated in मम चापश्यतः कान्तामहन्यहनि वर्धते॥ (Mama cāpashyatā kāntā mahanyahani vardhate॥). Thus, managing grief"
 
-[5, 4, 5, 5]
+[5, 5, 5, 5]
 
 Why do I feel so much hesitation before making a big decision?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. After your explanation, always include the exact Sanskrit verse(s) from the passages that support your answer. Do not omit them. Make sure to not just copy the passages, analyze and understand them and then reply in your own words.skip the question if it takes too longI myself had been expecting you every moment. Do you perform everything without let. What need of delaying further?
 सद्योऽहं त्वत्प्रतीक्षोऽस्मि वेद्यामस्यां प्रतिष्ठितः। अविघ्नं क्रियतां सर्वं किमर्थं हि विलम्ब्यते॥
@@ -620,10 +614,6 @@ Again how should he behave hiinself when he is surrounded by wicked ministers, w
 
 It is impossible to treat all equally. Conciliating the leaders only, the ordinary people should be reduced to obedience.
 तस्मात् सर्वसमारम्भो दुर्लभः पुरुषं प्रति। यथामुख्यान सान्त्वयित्वा भोक्तव्य इतरो जनः॥
-
-
-
-
 
 Question: How should a good leader behave?
 Answer: The passage suggests that a good leader should act in harmony with the leaders, ensuring the welfare of the entire community. When the aristocracy is united and has leaders, the king's role is to work towards the benefit of the collective order. This can be seen in the first part of the first Sanskrit verse, ""गणमुख्यैस्तु सम्भूय कार्यं गणहितं मिथः!"" which directly states that the king should perform actions beneficial to the collective (गणहितं) when the leaders (गणमुख्यैस्तु) are present.
@@ -694,7 +684,6 @@ Are all my mothers-in-law and subjects well?
 Question: How can I balance my family responsibilities with my work?
 Answer: The text suggests a balance between personal and familial duties by considering the welfare of both your family members and yourself. It emphasizes that actions done for the benefit of both your father's and mother's lineage will be fulfilling, as well as pleasing to your maternal uncle. This aligns with the Sanskrit verse ""तत् कर्माद्य करिष्यामि हितं यद् वंशयोर्द्वयोः"" which means ""I will do that action which will be beneficial for both the families [of my father and mother]."" To apply this in practical terms, one must think about how their work impacts not only their own well-being but also the well-being of their extended family. This approach helps in maintaining harmony and ensuring that no single responsibility overshadows the other.
 
-
 [5, 4, 5, 5]
 
 Sanskrit Verses:
@@ -732,8 +721,6 @@ This means ""With the support of satva (wisdom or understanding), the wise man c
 Question: How can I protect my body parts during meditation?
 Answer: During meditation, protecting body parts like hands and feet is crucial. The passage instructs that by focusing on the eyes, one should guard his hands and feet. This shows that maintaining vigilance and protection of these areas is important while meditating. The Sanskrit verse supporting this is:
 दहनादरं रक्षेत् पाणिपादं च चक्षु"
-
-
 
 How do I let go of attachments that hurt me?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. After your explanation, always include the exact Sanskrit verse(s) from the passages that support your answer. Do not omit them. Make sure to not just copy the passages, analyze and understand them and then reply in your own words.skip the question if it takes too longIt appears attachment is the root of all mental agonies; it is attachment that makes every creature miserable and brings on every kind of woe.
 मनसो दुःखमूलं तु स्नेह इत्युपलभ्यते। स्नेहात् तु सज्जते जन्तुर्दुःखयोगमुपैति च॥
@@ -790,6 +777,9 @@ In this passage, 'विद्वानदीनात्मा' (vidvān-deēna
 
 [5, 5, 5, 5]
 
+
+
+
 SOLE QWEN
 
 question,plain_qwen_answer
@@ -835,15 +825,12 @@ The Bhagavad Gita suggests that true peace stems from recognizing the essence of
 
 [5, 5, 5, 5]
 
-
-
 How do I control my anger?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. Use ancient Sanskrit scriptures Bhagavad Gita and Itihasa to answerskip the question if it takes too longQuestion: How do I control my anger?
 Answer: The Bhagavad Gita offers guidance on managing one's emotions, including anger. In Chapter 2, verse 47, Lord Krishna advises Arjuna that controlling anger is as vital as mastering a chariot. He states, ""When one is angry, he cannot see the right path, nor can he think clearly, nor can he act rightly. Therefore, one should control the mind with the mind."" This implies that anger clouds judgment and leads to poor decisions, emphasizing the need for self-control.
 
 Additionally, from the Itihasa, the Ramayana, King Janaka's story provides insight into emotional regulation. In the Ramayana, when Rama was banished from Ayodhya after an unfair exile sentence, Janaka, the king, shows remarkable composure and wisdom. He listens to the sage Valmiki who explains the truth behind Rama's innocence. Janaka's patience and understanding of his son's character during such challenging times demonstrate that staying calm and composed under pressure is crucial.
 
 In essence, both texts suggest that controlling anger involves maintaining mental clarity, making wise choices, and displaying composure under stress. The key lies in developing mindfulness and self-control, akin to the practices taught by Lord Krishna"
-
 
 [5, 5, 5, 2]
 What should I do when I feel afraid?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. Use ancient Sanskrit scriptures Bhagavad Gita and Itihasa to answerskip the question if it takes too longQuestion: What should I do when I feel afraid?
@@ -881,9 +868,6 @@ Explanation:
 [5, 4, 5, 5]
 
 
-
-
-
 How should a good leader behave?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. Use ancient Sanskrit scriptures Bhagavad Gita and Itihasa to answerskip the question if it takes too longQuestion: How should a good leader behave?
 Answer: A good leader is depicted as embodying the qualities of the Bhagavad Gita's Arjuna, who, despite facing personal dilemmas and moral struggles, maintains steadfastness and self-control. This exemplifies how a leader should behave by facing challenges with courage and maintaining composure. In the Itihasa tradition, we see examples like Rama, who exemplifies virtue and righteousness. Leaders should thus lead by example, demonstrating honesty, compassion, and fairness, thereby guiding others through their actions.
 
@@ -919,23 +903,6 @@ In Sanskrit:
 1. अर्जुन के राज्य-परिवार की कार्यक्रमों के साथ व्यवसाय में बलापन कैसे करें? - तथापि, भगवद्गीता में लोक श्री खंड द्वारा अर्जुन को अपने कर्तव्यों"
 
 [5, 4, 5, 4]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 How do I handle stress when life feels overwhelming?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. Use ancient Sanskrit scriptures Bhagavad Gita and Itihasa to answerskip the question if it takes too longQuestion: How do I handle stress when life feels overwhelming?
 
@@ -980,6 +947,8 @@ Answer: To become more resilient after failure, one must embrace the teachings o
 Explanation: In the Bhagavad Gita, Lord Krishna guides Arjuna through his fears and doubts, teaching him that true resilience comes from following one's duties and inner values despite the fear of failure. Similarly, the Itihasa stories of Yudhishthira demonstrate that enduring hardships is possible when one stays committed to their path and finds strength in their beliefs. These ancient texts provide invaluable lessons for facing"
 
 [5, 5, 4, 5]
+
+
 
 RAG + Qwen (k=5)
 
@@ -1223,7 +1192,6 @@ Answer: To overcome desire and temptation, one must first recognize its root cau
 
 The key to overcoming this cycle lies in understanding that desire and its consequences stem from ignorance (ममोचार्य अविद्या) and can lead to a hellish existence (""तमोऽप्रकाशो भूतानां नरकोऽ"
 
-
 [5, 4, 5, 5]
 How should a good leader behave?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. After your explanation, always include the exact Sanskrit verse(s) from the passages that support your answer. Do not omit them. Make sure to not just copy the passages, analyze and understand them and then reply in your own words.skip the question if it takes too longActing jointly with the leaders, the king, should do what is for the behoof of the whole order. When, however, the aristocracy are divided and disunited and have no leaders, other courses of action should be followed,
 गणमुख्यैस्तु सम्भूय कार्यं गणहितं मिथः! पृथग्गणस्य भिन्नस्य विततस्य ततोऽन्यथा॥
@@ -1245,7 +1213,6 @@ Answer: A good leader should focus on acting in ways that benefit the overall so
 
 The relevant Sanskrit verse is: गणमुख्यैस्तु सम्भूय कार्यं गणहितं मिथः! पृथग्गणस्य भिन्नस्य विततस्य ततोऽन्यथा॥
 In this verse, the king's actions should align with the collective well-being when the leaders are united and strong. However, if the aristocracy is divided and disunited, alternative strategies"
-
 
 [5, 4, 5, 5]
 What is the right way to treat my teacher or mentor?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. After your explanation, always include the exact Sanskrit verse(s) from the passages that support your answer. Do not omit them. Make sure to not just copy the passages, analyze and understand them and then reply in your own words.skip the question if it takes too longBut when a pupil behaves disrespectfully towards his tutor, he should never be forgiven by the preceptor, if he wants to benefit him. Therefore, I do not desire to live in a country where the people are so bad.
@@ -1270,7 +1237,6 @@ Answer: The right way to treat one's teacher or mentor involves being respectful
 The correct approach is to treat teachers with respect. According to the Sanskrit verse provided, ""शिष्यस्याशिष्यवृत्तेस्तु न क्षन्तव"
 
 [5, 5, 5, 5]
-
 
 How can I show respect to someone I look up to?,"Answer the question using only the passages below. Explain their meaning in clear, simple English, at least 3 sentences long. After your explanation, always include the exact Sanskrit verse(s) from the passages that support your answer. Do not omit them. Make sure to not just copy the passages, analyze and understand them and then reply in your own words.skip the question if it takes too longDo you honour him duly for my sake, O powerful one, he is always attached and deeply devoted to me.
 तं भवान् मदपेश्चार्थ विधिवत् प्रतिपूजयेत्। स तु भक्तोऽनुरक्तश्च मम नित्यमिति प्रभो॥
@@ -1466,7 +1432,9 @@ From the second passage, it is mentioned that even someone who desires victory i
 
 [5, 5, 5, 5]
 
-GEMINI
+
+
+RAG + GEMINI
 ================================================================================
 Q: What happens to the soul after death?
 A: The passages explain that the soul is not subject to birth, growth, decay, or destruction; it is only the physical body that perishes upon death. When death occurs, the spirit, or soul, departs from the destroyed body. This soul, bound by the effects of its past actions, then transitions into another body or goes to another unseen place.
@@ -1644,7 +1612,7 @@ A: The passages provided do not offer advice on what one should do when feeling 
 अयमात्मभवः शोको मामनाथमचेतनम्। संसाधयति वेगेन यथा कूलं नदीरयः॥
 शोकसम्मूढहृदयो दुःखेनाभिपरिप्लुतः। मज्जमान इवागाधे विपुले शोकसागरे॥
 
-[]
+[5, 5, 5, 5]
 
 ================================================================================
 Q: How can I become more resilient after failure?
